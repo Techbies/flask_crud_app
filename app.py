@@ -11,7 +11,7 @@ CORS(app)
 
 
 class User(db.Model):
-    __tablename__ = "users"
+    __tablename__ = "tablename"
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(255))
     age = db.Column(db.String(255))
