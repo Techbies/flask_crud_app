@@ -1,1 +1,1 @@
-uri: 'postgresql://postgres:rollins@123@localhost/lin_flask'
+uri: 'postgresql://postgres:password@localhost/db_name'
